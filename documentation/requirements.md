@@ -5,7 +5,7 @@
 
 ### ΛΑ-1
 
-Η εφαρμογή θα πρέπει να επιτρέπει στον χρήστη να δημιουργεί λογαριασμό.
+Οι ενδιαφερόμενοι χρήστες θα πρέπει να μπορούν να δημιουργήσουν λογαριασμό.
 
 **Περιγραφή**
 
@@ -18,9 +18,10 @@
 
 #### Σενάρια
 
-Create here the related feature/user story based on BDD and the Gherkin syntax (https://github.com/cucumber/cucumber/wiki/Gherkin). Do that by putting a link to the relevant feature file.
+
 ### ΛΑ-2
-Η εφαρμογή θα πρέπει να επιτρέπει στον εγγεγραμμένο χρήστη να κάνει είσοδο στο λογαριασμό του.
+
+Ο χρήστης θα πρέπει να πιστοποιείται κατά την είσοδο.
 
 **Περιγραφή**
 
@@ -29,9 +30,15 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
+
 ### ΛΑ-3
-Η εφαρμογή πρέπει να επιτρέπει στον εγγεγραμμένο χρήστη να διαλέξει τις κατηγορίες και τις υποκατηγορίες βίντεο που θέλει να εμφανίζονται στη κεντρική σελίδα του.
+
+Ο χρήστης θα πρέπει να μπορεί να ανεβάσει ένα βίντεο.
 
 **Περιγραφή**
 
@@ -40,9 +47,14 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
 ### ΛΑ-4
-Η εφαρμογή θα πρέπει να επιτρέπει στον εγγεγραμμένο χρήστη να κάνει αναζήτηση σε κατηγορίες και υποκατηγορίες.
+
+Ο χρήστης θα πρέπει να μπορεί να διαγράψει ένα βίντεο που έχει ανεβάσει.
 
 **Περιγραφή**
 
@@ -51,9 +63,14 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
 ### ΛΑ-5
-Η εφαρμογή θα πρέπει να επιτρέπει στο χρήστη να δημιουργεί συλλογές με θέμματα που τον ενδιαφέρουν.
+
+Ο χρήστης θα πρέπει να μπορεί να δημιουργήσει μια νέα κατηγορία.
 
 **Περιγραφή**
 
@@ -62,9 +79,15 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
+
 ### ΛΑ-6
- Η εφαρμογή θα πρέπει να επιτρέπει στο χρήστη να προσθέσει βίντεο σε μια συλλογή του.
+
+Ο χρήστης θα πρέπει να μπορεί να δημιουργήσει μια νέα συλλογή.
 
 **Περιγραφή**
 
@@ -73,20 +96,15 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
-### ΛΑ-6
-Η εφαρμογή πρέπει να επιτρέπει στο χρήστη να ψηφίσει θετικά ένα βίντεο.
 
-**Περιγραφή**
 
-**User Priority**
 
-**Technical Priority**
-
-**Stability**
-#### Σενάρια
 ### ΛΑ-7
-Η εφαρμογή θα πρέπει να επιτρέπει στο χρήστη να κοινοποιήσει ένα βίντεο.
+
+Ο χρήστης θα πρέπει να μπορεί να διαγράψει μια δική του συλλογή.
 
 **Περιγραφή**
 
@@ -95,9 +113,14 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
 ### ΛΑ-8
-Ο χρήστης θα πρέπει να μπορεί να ανεβάζει ένα βίντεο.
+
+Ο χρήστης θα πρέπει να μπορεί να προσθέσει ένα βίντεο που ανέβασε σε μια από τις διαθέσιμες κατηγορίες, υπο-κατηγορίες.
 
 **Περιγραφή**
 
@@ -106,9 +129,13 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
 ### ΛΑ-9
-Ο χρήστης θα πρέπει να μπορεί να προσθέσει το βίντεο σε κατηγορίες ή υποκατηγορίες.
+
+Ο χρήστης θα πρέπει να μπορεί να προσθέσει ένα βίντεο (που ανέβασε?) σε μια συλλογή του.
 
 **Περιγραφή**
 
@@ -117,9 +144,14 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
 ### ΛΑ-10
-Ο χρήστης θα πρέπει να μπορεί να δημιουργήσει μια νέα κατηγορία ή υποκατηγορία εφόσον δεν υπάρχει ήδη.
+
+Ο χρήστης θα πρέπει να μπορεί να ορίσει τις κατηγορίες, υπο-κατηγορίες που τον ενδιαφέρουν.
 
 **Περιγραφή**
 
@@ -128,9 +160,14 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
 ### ΛΑ-11
- Ο χρήστης θα πρέπει να μπορεί να επιλέγει την ταξινόμηση των αποτελεσμάτων του.
+
+Ο χρήστης θα πρέπει να μπορεί να προσθέσει άλλους χρήστες στην λίστα των φίλων του.
 
 **Περιγραφή**
 
@@ -139,9 +176,15 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
+
 ### ΛΑ-12
- Ο χρήστης θα μπορέι να κάνει προσθήκη φίλου.
+
+Ο χρήστης θα πρέπει να μπορεί να δει τις συλλογές των φίλων του.
 
 **Περιγραφή**
 
@@ -150,9 +193,30 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 **Technical Priority**
 
 **Stability**
+
+
 #### Σενάρια
+
+
 ### ΛΑ-13
- Ο χρήστης θα πρέπει να μπορεί να βλέπει συλλογές φίλων του.
+
+Ο χρήστης θα πρέπει να μπορεί να ταξινομεί τα βίντεο στην αρχική του σελίδα.
+
+**Περιγραφή**
+
+**User Priority**
+
+**Technical Priority**
+
+**Stability**
+
+
+#### Σενάρια
+
+
+
+### ΛΑ-14
+Ο χρήστης θα πρέπει να μπορεί να κάνει αναζήτηση σε κατηγορίες, υποκατηγορίες.
 
 **Περιγραφή**
 
@@ -162,8 +226,36 @@ Create here the related feature/user story based on BDD and the Gherkin syntax (
 
 **Stability**
 #### Σενάρια
-### ΛΑ-14
-Ο χρήστης θα πρέπει να μπορεί να προτείνει βίντεο σε φίλους του.
+
+
+### ΛΑ-15
+Ο χρήστης θα πρέπει να μπορεί να ψηφίσει θετικά ένα βίντεο.
+
+**Περιγραφή**
+
+**User Priority**
+
+**Technical Priority**
+
+**Stability**
+#### Σενάρια
+
+
+### ΛΑ-16
+Ο χρήστης θα πρέπει να μπορεί να κοινοποιήσει ένα βίντεο.
+
+**Περιγραφή**
+
+**User Priority**
+
+**Technical Priority**
+
+**Stability**
+#### Σενάρια
+
+
+### ΛΑ-17
+Ο χρήστης θα πρέπει να μπορεί να προτείνει ένα βίντεο σε φίλους του.
 
 **Περιγραφή**
 
