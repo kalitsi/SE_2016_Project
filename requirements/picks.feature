@@ -33,10 +33,10 @@ Scenario: Επεξεργασία pick
         When αλλάζω το όνομα του pick
         Then θα πρέπει να μπορώ να δώ το ανανεομένο pick
         
-Scenario:Κρυφό pick
+Scenario:Ιδιωτικό pick
          Given ότι είμαι συνδεδεμένος
          And ότι έχω τουλάχιστον ένα pick
-         When κάνω ένα pick κρυφό
+         When κάνω ένα pick ιδιωτικό
          Then μόνο εγώ μπορώ να δώ αυτό το pick
          And το pick δεν είναι ορατό στους φίλους μου
          
