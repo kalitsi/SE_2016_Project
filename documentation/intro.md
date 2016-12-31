@@ -54,17 +54,9 @@ Introduction section describing the application and the business requirements.
 Μια ενέργεια η οποία δηλώνει πως ο χρήστης επιθυμεί να ψηφίσει θετικά ένα βίντεο.
 
 
-
 **Login**
 
-Define term 1 ...
+Η διαδικασία κατά την οποία ο χρήστης πιστοποιείται ώστε να αποκτήσει πλήρη πρόσβαση στις υπηρεσίες του συστήματος.
 
-**Cloud**
-
-Define term 2 ...
-
-**Youtube**
-
-**Ανέβασμα Βίντεο**
 
 

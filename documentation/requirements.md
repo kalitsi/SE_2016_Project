@@ -24,12 +24,13 @@
 
 
 #### Σενάρια
-SE_2016_Project/requirements/account.feature
+
+[Accound](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/account.feature)
 
 
 ### ΛΑ-2
 
-Ο χρήστης θα πρέπει να πιστοποιείται κατά την είσοδο.
+Ο χρήστης θα πρέπει να πιστοποιείται κατά την είσοδο (Login).
 
 **Identifier**
 Οι χρήστες οι οποίοι έχουν δημιουργήσει λογαριασμό, θα πρέπει να χρησιμοποιούν το προσωπικό τους username και password ώστε να συνδεθούν με επιτυχία στην εφαρμογή. Οι βασικές υπηρεσίες του συστήματος είναι προσβάσιμες μόνο από τους πιστοποιημένους χρήστες.
@@ -49,7 +50,8 @@ SE_2016_Project/requirements/account.feature
 
 #### Σενάρια
 
-SE_2016_Project/requirements/account.feature
+[Accound](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/account.feature)
+
 
 ### ΛΑ-3
 
@@ -73,7 +75,8 @@ SE_2016_Project/requirements/account.feature
 
 #### Σενάρια
 
-SE_2016_Project/requirements/uploads.feature
+[Upload](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/uploads.feature)
+
 
 
 ### ΛΑ-4
@@ -97,7 +100,9 @@ SE_2016_Project/requirements/uploads.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/uploads.feature
+
+[Upload](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/uploads.feature)
+
 
 ### ΛΑ-5
 
@@ -120,7 +125,8 @@ SE_2016_Project/requirements/uploads.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/uploads.feature
+
+[Upload](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/uploads.feature)
 
 
 ### ΛΑ-6
@@ -144,7 +150,9 @@ SE_2016_Project/requirements/uploads.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/picks.feature
+
+[Picks](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/picks.feature)
+
 
 
 ### ΛΑ-7
@@ -168,7 +176,9 @@ SE_2016_Project/requirements/picks.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/picks.feature
+
+[Picks](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/picks.feature)
+
 
 ### ΛΑ-8
 
@@ -187,10 +197,12 @@ SE_2016_Project/requirements/picks.feature
 (5/5) Η υλοποίηση της ΛΑ-8 είναι απαραίτητη διότι αποτελεί έναν από τους κύριους σκοπούς του συστήματος. 
 
 **Stability**
-
+(3/5) Προς το παρόν ο χρήστης έχει την δυνατότητα να προσθέσει ένα βίντεο στις συλλογές του μόνο κατά την προβολή του βίντεο. Στο μέλλον η επιλογή 'pick it' θα είναι διαθέσιμη και σε άλλα σημεία.
 
 #### Σενάρια
-SE_2016_Project/requirements/picks.feature
+
+[Picks](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/picks.feature)
+
 
 
 ### ΛΑ-9
@@ -214,7 +226,9 @@ SE_2016_Project/requirements/picks.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/picks.feature
+
+[Picks](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/picks.feature)
+
 
 
 ### ΛΑ-10
@@ -237,7 +251,9 @@ SE_2016_Project/requirements/picks.feature
 (2/5) Ο χρήστης έχει την δυνατότητα να εισάγει ένα βίντεο μέσω διασύνδεσης στο youtube. Στην πλατφόρμα του youtube πιθανόν να έχουν οριστεί ήδη ετικέτες για το συγκεκριμένο βίντεο. Το σύστημα θα πρέπει να αναγνωρίζει αυτές τις ετικέτες να βρίσκει τις αντίστοιχες κατηγορίες, υπο-κατηγορίες εφ όσον υπάρχουν και να τις προτείνει στον χρήστη. Εάν το σύστημα δεν μπορέσει να εντοπίσει κάποια διαθέσιμη κατηγορία, υπο-κατηγορία τότε θα πρέπει να προτείνει την δημιουργία αντίστοιχης.
 
 #### Σενάρια
-SE_2016_Project/requirements/uploads.feature
+
+[Uploads](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/uploads.feature)
+
 
 
 ### ΛΑ-11
@@ -261,7 +277,9 @@ SE_2016_Project/requirements/uploads.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/preferences.feature
+
+[Preferences](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/preferences.feature)
+
 
 ### ΛΑ-12
 
@@ -284,7 +302,9 @@ SE_2016_Project/requirements/preferences.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/friends.feature
+
+[Friends](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/friends.feature)
+
 
 
 ### ΛΑ-13
@@ -307,7 +327,9 @@ SE_2016_Project/requirements/friends.feature
 (5/5) Η προβολή των περιεχομένων μιας συλλογής γίνεται με καθορισμένο τρόπο και δεν συνίσταται κάποια μεταβολλή.
 
 #### Σενάρια
-SE_2016_Project/requirements/friends.feature
+
+[Friends](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/friends.feature)
+
 
 ### ΛΑ-14
 
@@ -330,7 +352,9 @@ SE_2016_Project/requirements/friends.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/picks.feature
+
+[Picks](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/picks.feature)
+
 
 
 ### ΛΑ-15
@@ -347,12 +371,16 @@ SE_2016_Project/requirements/picks.feature
 (5/5) Το σύστημα θα πρέπει να ανακτά γρήγορα και με ακρίβεια όλα τα βίντεο που ικανοποιούν τα κριτήρια ταξινόμησης. Επιπλέον, το περιεχόμενο στου συστήματος ανανεώνεται διαρκώς και το ίδιο θα πρέπει να συμβαίνει και στην αρχική σελίδα του χρήστη.
 
 **Technical Priority**
+(3/5) Το σύστημα θα μπορούσε να διατηρήσει την πλήρη λειτουργικότητά του χωρίς την υλοποίηση της συγκεκριμένης απαίτησης.
 
 **Stability**
+(3/5) Καθώς το περιεχόμενο εξελίσσεται διαρκώς οι απαιτήσεις και οι ανάγκες των χρηστών αλλάζουν και προκύπτει η ανάγκη να παρουσιαστούν με διαφορετικό τρόπο τα βίντεο. 
 
 
 #### Σενάρια
-SE_2016_Project/requirements/sortBy.feature
+
+[Sort](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/sortBy.feature)
+
 
 
 ### ΛΑ-16
@@ -375,7 +403,9 @@ SE_2016_Project/requirements/sortBy.feature
 (3/5) Στο μέλλον θα προτείνονται στον χρήστη κατηγορίες τις οποίες έχει χρησιμοποιήσει σε παλαιότερες αναζητήσεις του.
 
 #### Σενάρια
-SE_2016_Project/requirements/search.feature
+
+[Search](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/search.feature)
+
 
 
 ### ΛΑ-17
@@ -394,11 +424,11 @@ SE_2016_Project/requirements/search.feature
 **Technical Priority**
 (5/5) Η υλοποίηση της ΛΑ-17 είναι απαραίτητη γιατί ουσιαστικά αποτελεί έναν από τους κύριους σκοπούς του συστήματος.
 
-**Stability**
-
 
 #### Σενάρια
-SE_2016_Project/requirements/play.feature
+
+[Play](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/play.feature)
+
 
 ### ΛΑ-18
 Ο χρήστης θα πρέπει να μπορεί να ψηφίσει θετικά (eye) ένα βίντεο.
@@ -420,7 +450,9 @@ SE_2016_Project/requirements/play.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/eyeit.feature
+
+[Eye it](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/eyeit.feature)
+
 
 ### ΛΑ-19
 Ο χρήστης θα πρέπει να μπορεί να κοινοποιήσει ένα βίντεο.
@@ -438,17 +470,19 @@ SE_2016_Project/requirements/eyeit.feature
 (3/5) Το σύστημα θα μπορούσε να υλοποιηθεί και χωρίς την ύπαρξη της συγκεκριμένης απαίτησης. 
 
 **Stability**
-
+(3/5) Σύνδεση και με άλλες κοινωνικές πλατφόρμες.
 
 
 #### Σενάρια
-SE_2016_Project/requirements/share.feature 
+
+[Share it](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/share.feature)
+
 
 ### ΛΑ-20
 Ο χρήστης θα πρέπει να μπορεί να προτείνει ένα βίντεο σε φίλους του.
 
 **Identifier**
-Ο χρήστης θα μπορεί να προτείνει οποιοδήποτε βίντεο υπάρχει στο σύστήμα σε έναν φίλο του πατώντας το κουμπί 'suggest video to a friend' το οποίο βρίσκεται κάτω από κάθε βίντεο.
+Ο χρήστης θα μπορεί να προτείνει οποιοδήποτε βίντεο υπάρχει στο σύστημα σε έναν φίλο του πατώντας το κουμπί 'suggest video to a friend' το οποίο βρίσκεται κάτω από κάθε βίντεο.
 
 **User Priority**
 (5/5) Είναι αρκετά σημαντικό για τον χρήστη καθώς θα μπορεί να δέχεται και ο ίδιος προτάσεις για βίντεο που πιθανόν τον ενδιαφέρουν. Επίσης αποτελεί τον μοναδικό τρόπο επικοινωνίας μεταξύ των χρηστών.
@@ -460,10 +494,12 @@ SE_2016_Project/requirements/share.feature
 (4/5) Το σύστημα θα μπορούσε να υλοποιηθεί και χωρίς την ύπαρξη της συγκεκριμένης απαίτησης.
 
 **Stability**
-
+(3/5) Πιθανόν η υλοποίηση της συγκεκριμένης απαίτησης να μεταβληθεί στο μέλλον καθώς θα δίνεται η δυνατότητα σε κάθε χρήστη να ορίζει εάν επιθυμεί να λαμβάνει προτάσεις ή όχι.
 
 #### Σενάρια
-SE_2016_Project/requirements/recomment.feature
+
+[Suggest](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/recomment.feature)
+
 
 
 ### ΛΑ-21
@@ -486,23 +522,30 @@ SE_2016_Project/requirements/recomment.feature
 
 
 #### Σενάρια
-SE_2016_Project/requirements/notifications.feature
+
+[Notifications](https://github.com/kalitsi/SE_2016_Project/blob/master/requirements/notifications.feature)
+
 
 ## Use case diagram
 
-Representation of all users and user stories/use cases
+[Use case 1](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_UseCase_1.pdf)
+[Use case 2](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_UseCase_2.pdf)
+
 
 ## Activity diagrams
 
-Create activity diagrams to portray the flow of basic user process in the system.
+[Upload a video](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_Upload.pdf)
+[Create a category](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_CreateCategory.pdf)
+[Pick it](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_PickIt.pdf)
+
 
 ## Mockups and Storyboards
 
-SE_2016_Project/Storyboards/Storyboards.pdf
+[Storyboards](https://github.com/kalitsi/SE_2016_Project/blob/master/Storyboards/Storyboards.pdf)
 
-## Non-Functional Requirements
 
-### NFR-1
+
+## Μη Λειτουργικές Απαιτήσεις
 
 
 ### ΜΛΑ-1
