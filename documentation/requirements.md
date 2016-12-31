@@ -529,14 +529,17 @@
 ## Use case diagram
 
 [Use case 1](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_UseCase_1.pdf)
+
 [Use case 2](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_UseCase_2.pdf)
 
 
 ## Activity diagrams
 
-[Upload a video](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_Upload.pdf)
-[Create a category](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_CreateCategory.pdf)
-[Pick it](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_PickIt.pdf)
+Ο χρήστης ανεβάζει ένα βίντεο στο σύτημα ([Upload a video](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_Upload.pdf))
+
+Ο χρήστης δημιουργεί μια νέα κατηγορία ([Create a category](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_CreateCategory.pdf))
+
+Ο χρστης εντάσσει ένα βίντεο στις συλλογές του ([Pick it](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_PickIt.pdf))
 
 
 ## Mockups and Storyboards
