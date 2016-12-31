@@ -539,7 +539,7 @@
 
 Ο χρήστης δημιουργεί μια νέα κατηγορία ([Create a category](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_CreateCategory.pdf)). Σε αυτό το διάγραμμα παρουσιάζεται αναλυτικότερα η κατάσταση 'Create a new category/sub-category' του προηγούμενου διαγράμματος.
 
-Ο χρστης εντάσσει ένα βίντεο στις συλλογές του ([Pick it](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_PickIt.pdf))
+Ο χρήστης εντάσσει ένα βίντεο στις συλλογές του ([Pick it](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_PickIt.pdf))
 
 
 ## Mockups and Storyboards
