@@ -541,6 +541,8 @@
 
 Ο χρήστης εντάσσει ένα βίντεο στις συλλογές του ([Pick it](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_PickIt.pdf))
 
+Ο χρήστης ψηφίζει θετικά ένα βίντεο ή αφαιρεί την θετική του ψήφο ([Eye it](https://github.com/kalitsi/SE_2016_Project/blob/master/UML/UML_activity_EyeIt.pdf))
+
 
 ## Mockups and Storyboards
 
